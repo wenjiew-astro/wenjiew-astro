@@ -83,15 +83,15 @@
   - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
 
 </td></tr>
+-->
 
 
-<!-- 
 <tr><td>
 
 ### 📃 Recent Blog
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/astronaut.png" />
--->
+
 
 <!-- feed start -->
 - <a href=''>Github美化过程记录</a> <sub>()</sub>
@@ -99,9 +99,9 @@
 - <a href=''>hexo+github 搭建个人主页</a> <sub>()</sub>
 - <a href=''>Hello World</a> <sub>()</sub>
 <!-- feed end -->
-<!-- 
+
 </td></tr>
--->
+
 <tr><td>
 
 ### 📊 WakaTime
