@@ -49,7 +49,7 @@
 <!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/jobs.png" /> -->
 
 <p>&emsp;&emsp;嗨，你好，我是王同学。热爱天文、摄影、编程、读书、旅行。</p>
-<p>&emsp;&emsp;Hi, I’m Wang. I’m passionate about astronomy, photography, programming, reading, 和 traveling.</p>
+<p>&emsp;&emsp;Hi, I’m Wenjie Wang. I’m passionate about astronomy, photography, programming, reading, 和 traveling.</p>
 <!-- <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p> -->
