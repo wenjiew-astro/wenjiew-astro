@@ -25,7 +25,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
           # 建议：用 GitHub 内置 token，而不是自建 GH_TOKEN
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
           # —— 下面保持你原来的开关，不改语义；注意：已删除 SHOW_TITLE —— 
           SHOW_LINES_OF_CODE: "False"
