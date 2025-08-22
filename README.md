@@ -376,7 +376,7 @@ No Activity Tracked This Week
   </tr>
 </table>
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+<img width="120%" src="https://repobeats.axiom.co/api/embed/7aa7311e6885fc4b499b17d5c47c0cd5cbca9d4d.svg" />
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/icon.png" /></div>
