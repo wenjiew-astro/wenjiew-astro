@@ -20,7 +20,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: sun0225SUN
+          user: wenjiew-astro
           template: classic
           config_timezone: Asia/Shanghai
           base: "header, activity, community, repositories"
@@ -122,7 +122,7 @@ jobs:
           plugin_reactions_details: percentage
 
       # 🧑‍🤝‍🧑 People
-      - name: Followers
+      - name: 关注者
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/people.followers.svg
