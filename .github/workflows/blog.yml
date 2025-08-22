@@ -2,8 +2,7 @@ name: Recent Blog
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-    # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
+    - cron: "0 0 * * *"   # 每天 00:00 UTC 跑一次
   workflow_dispatch:
 
 jobs:
@@ -14,6 +13,9 @@ jobs:
       - uses: actions/checkout@v4
       - uses: sarisia/actions-readme-feed@v1
         with:
-          url: "https://blog.guoqi.dev/rss.xml"
+          url: "https://wenjiew-astro.github.io/atom.xml"  # ← 用你刚生成的 feed
           file: "README.md"
+          # 可选：最多显示 5 篇、每项的格式
+          max_item: 5
+          format: "- <a href='${link}'>${title}</a> <sub>(${pubDate})</sub>"
       - uses: sarisia/actions-commit@master
