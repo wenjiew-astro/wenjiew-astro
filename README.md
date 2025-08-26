@@ -7,9 +7,9 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/developer.svg" height="225px" />
+    <img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/coding.gif" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
@@ -29,11 +29,11 @@
 
   <!-- </div> -->
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 --> 
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 --> profile-snake-contrib
   <picture> 
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /> 
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/profile-snake-contrib/github-contribution-grid-snake.svg" /> 
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/profile-snake-contrib/github-contribution-grid-snake.svg" /> 
+    <source media="(prefers-color-scheme: light)" srcset="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/profile-snake-contrib/github-contribution-grid-snake.svg" /> 
+    <img alt="github-snake" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/profile-snake-contrib/github-contribution-grid-snake.svg" /> 
   </picture>
 
 </div>
@@ -46,7 +46,7 @@
 
 ### 🤺 About Me
 
-<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/jobs.png" /> -->
+<!-- <img align="right" width="88" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/jobs.png" /> -->
 
 <p>&emsp;&emsp;嗨，你好，我是王文杰。热爱天文、摄影、编程、读书、旅行。</p>
 <p>&emsp;&emsp;Hi, I’m Wenjie Wang. I’m passionate about astronomy, photography, programming, reading, 和 traveling.</p>
@@ -61,21 +61,21 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/yuanze.png" />
+<img align="right" width="88" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/yuanze.png" />
 
 - [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— 2024-08-28
 
   - 工作岗位：软件研发工程师
   - 工作内容：软件开发与维护
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/tuhui.png" />
+<img align="right" width="88" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/tuhui.png" />
 
 - [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
 
   - 工作岗位：Web 前端开发工程师
   - 工作内容：一些杂活
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/nio.png" />
+<img align="right" width="88" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/nio.png" />
 
 - [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
 
@@ -90,7 +90,7 @@
 
 ### 📃 Recent Blog
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/astronaut.png" />
+<img align="right" width="88" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/astronaut.png" />
 
 
 <!-- feed start -->
@@ -174,13 +174,13 @@ Linux                    9 mins              █░░░░░░░░░░�
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/hr.gif" />
+<img width="200%" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/hr.gif" />
 
 <div align="center">
 
 <!-- run 图片 -->
 <!--
-<img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/man_run.png" width="250" height="250" />
+<img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/man_run.png" width="250" height="250" />
 -->
 
 <!-- Joke 笑话 -->
@@ -195,16 +195,16 @@ Linux                    9 mins              █░░░░░░░░░░�
 -->
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/left.png" />
+<img align="left" width="150" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wenjiew-astro&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wenjiew-astro&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wenjiew-astro&theme=dark&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/right.png" />
+<img align="right" width="150"  src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/base.svg" /> -->
+<!-- <img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/base.svg" /> -->
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <!-- 
@@ -223,13 +223,13 @@ Linux                    9 mins              █░░░░░░░░░░�
 
 <!-- ########################################## 分割 ########################################## -->
 <!-- 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/hr.gif" />
+<img width="200%" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/hr.gif" />
  -->
 <div align="center" >
 
 <!-- just img 图片 -->
 <!-- 
-<img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/mb.png" width="250" height="250" />
+<img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/mb.png" width="250" height="250" />
 -->
 <!-- Quotes 名人名言 -->
 <!--
@@ -257,12 +257,12 @@ Linux                    9 mins              █░░░░░░░░░░�
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/hr.gif" />
+<img width="200%" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/man.png" width="250" height="250" />
+<img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/man.png" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 <!--
@@ -316,70 +316,70 @@ Linux                    9 mins              █░░░░░░░░░░�
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/github.webp">
+<img height="100" width="100" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/html.webp">
+<img height="100" width="100" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/vscode.webp">
+<img height="100" width="100" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/react.webp">
+<img height="95" width="95" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/vue.webp">
+<img height="100" width="100" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/python.webp">
+<img height="100" width="100" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/js.webp">
+<img height="100" width="100" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/github.webp">
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/hr.gif" />
+<img width="200%" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/githubgif.gif" />
+<img width="36%" src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
 
 <!-- second form 第二个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/7aa7311e6885fc4b499b17d5c47c0cd5cbca9d4d.svg" />
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/icon.png" /></div>
+<img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/icon.png" /></div>
 </div>
