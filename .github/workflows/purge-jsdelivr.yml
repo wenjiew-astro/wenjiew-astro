@@ -1,0 +1,26 @@
+name: Purge jsDelivr cache
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - id: changed
+        uses: tj-actions/changed-files@v44
+        with:
+          files: |
+            assets/**/*
+            profile-3d-contrib/**/*
+            profile-snake-contrib/**/*
+            github-metrics/**/*
+      - name: Purge jsDelivr
+        if: steps.changed.outputs.any_changed == 'true'
+        run: |
+          for f in ${{ steps.changed.outputs.all_changed_files }}; do
+            echo "Purging $f"
+            curl -sS "https://purge.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro@main/$f" || true
+          done
