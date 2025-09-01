@@ -1,0 +1,54 @@
+name: Refresh README images (jsDelivr + Camo)
+on:
+  push:
+    branches: [ main ]   # 如果默认分支不是 main，改成你的默认分支
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # 1) 找出本次提交里变更的静态资源
+      - id: changed
+        uses: tj-actions/changed-files@v44
+        with:
+          文件: |
+            assets/**/*
+            profile-3d-contrib/**/*
+            profile-snake-contrib/**/*
+            github-metrics/**/*
+
+      # 2) Purge jsDelivr（对分支别名生效；覆盖 fastly/cdn 节点）
+      - name: Purge jsDelivr for changed files
+        if: steps.changed.outputs.any_changed == 'true'
+        run: |
+          REF="${{ github.ref_name }}"
+          REPO="${{ github.repository }}"
+          for f in ${{ steps.changed.outputs.all_changed_files }}; do
+            echo "Purging jsDelivr: $REPO@$REF/$f"
+            curl -fsS "https://purge.jsdelivr.net/gh/${REPO}@${REF}/${f}" || true
+          done
+
+      # 3) Purge GitHub Camo（README 和个人主页两处的渲染页）
+      - name: Purge GitHub Camo caches
+        run: |
+          set -eu
+          PAGES=(
+            "https://github.com/${{ github.repository }}/blob/${{ github.ref_name }}/README.md"
+            "https://github.com/${{ github.repository_owner }}"
+          )
+          for page in "${PAGES[@]}"; do
+            echo "Scanning $page"
+            html="$(curl -fsSL "$page")" || continue
+            echo "$html" | grep -Eo 'https://camo\.githubusercontent\.com/[^"]+' | sort -u > camo.txt || true
+            if [ -s camo.txt ]; then
+              while read -r url; do
+                echo "PURGE $url"
+                curl -fsS -X PURGE "$url" || true
+              done < camo.txt
+            else
+              echo "No camo URLs found on $page"
+            fi
+          done
