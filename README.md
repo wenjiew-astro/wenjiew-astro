@@ -96,9 +96,9 @@
 <!-- feed start -->
 - <a href=''>Vercel 托管 Github page</a> <sub>()</sub>
 - <a href=''>Github美化过程记录</a> <sub>()</sub>
+- <a href=''>LaTeX 如何用 .bib 插入参考文献：从入门到入土（含完整示例）</a> <sub>()</sub>
 - <a href=''>Hexo 写博客指南</a> <sub>()</sub>
 - <a href=''>hexo+github 搭建个人主页</a> <sub>()</sub>
-- <a href=''>Hello World</a> <sub>()</sub>
 <!-- feed end -->
 
 </td></tr>
