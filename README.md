@@ -10,7 +10,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/developer.svg" height="225px" />
     <img src="https://fastly.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/coding.gif" />
-  </picture>
+  </picture> 
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
