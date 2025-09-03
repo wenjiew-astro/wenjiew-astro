@@ -96,8 +96,8 @@
 <!-- feed start -->
 - <a href=''>hexo配置友链</a> <sub>()</sub>
 - <a href=''>hexo配置安知鱼音乐页面</a> <sub>()</sub>
-- <a href=''>hexo配置追番页面 — Node.js 22</a> <sub>()</sub>
 - <a href=''>hexo配置相册页面</a> <sub>()</sub>
+- <a href=''>hexo配置追番页面 — Node.js 22</a> <sub>()</sub>
 - <a href=''>LaTeX 如何用 .bib 插入参考文献：从入门到入土（含完整示例）</a> <sub>()</sub>
 <!-- feed end -->
 
