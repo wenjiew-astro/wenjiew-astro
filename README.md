@@ -94,11 +94,11 @@
 
 
 <!-- feed start -->
+- <a href=''>Gemini乱码解决方案</a> <sub>()</sub>
 - <a href=''>解决 CDS FTP 下载数据时提示登录的问题</a> <sub>()</sub>
 - <a href=''>hexo博文图片及与Typora一致</a> <sub>()</sub>
-- <a href=''>VSCode 快速折叠所有的文件夹</a> <sub>()</sub>
 - <a href=''>VSCode 快捷键大全</a> <sub>()</sub>
-- <a href=''>hexo配置安知鱼音乐页面</a> <sub>()</sub>
+- <a href=''>VSCode 快速折叠所有的文件夹</a> <sub>()</sub>
 <!-- feed end -->
 
 </td></tr>
