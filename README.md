@@ -151,22 +151,22 @@ Sunday                   5 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   11 hrs 34 mins      ████████████████████░░░░░   79.05 % 
-Markdown                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-TOML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Python                   7 hrs 41 mins       ██████████████████░░░░░░░   73.36 % 
+Other                    2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 38 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    13 hrs 53 mins      ████████████████████████░   94.86 % 
-Windows                  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Linux                    9 hrs 30 mins       ███████████████████████░░   90.59 % 
+Windows                  59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
 ```
 
 
- Last Updated on 24/07/2026 01:21:26 UTC
+ Last Updated on 27/07/2026 01:29:17 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
