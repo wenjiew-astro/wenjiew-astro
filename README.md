@@ -124,6 +124,8 @@
 <tr><td> 
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-87%20hrs%2038%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -151,22 +153,43 @@ Sunday                   5 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 41 mins       ██████████████████░░░░░░░   73.36 % 
-Other                    2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Python                   3 hrs 10 mins       █████████████░░░░░░░░░░░░   50.59 % 
+Other                    2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.69 % 
+Bash                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  6 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 30 mins       ███████████████████████░░   90.59 % 
-Windows                  59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Linux                    5 hrs 17 mins       █████████████████████░░░░   84.28 % 
+Windows                  59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 18 mins (36.85%)
+
+✍️ 540 lines written by AI, 17,441 lines written by hand (3.0% AI-written)
+
+🔤 25,233,293 Input Tokens, 157,431 Output Tokens
+
+💵 $128.98 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 21 AI Prompts
+
+GPT                      602 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 3.0% of written lines came from AI
+📝 Concise Prompter — average 161 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 96.71% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 01:29:17 UTC
+ Last Updated on 28/07/2026 01:17:19 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
