@@ -153,45 +153,28 @@ Sunday                   5 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      6 hrs 51 mins       █████████████████████░░░░   83.99 % 
-Bash                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Python                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-BibTeX                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+TeX                      6 hrs 51 mins       ██████████████████████░░░   88.09 % 
+Bash                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+BibTeX                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 8 mins        █████████████████████████   99.87 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+VS Code                  7 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 59 mins       █████████████████████░░░░   85.81 % 
-Linux                    1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Windows                  6 hrs 59 mins       ██████████████████████░░░   90.00 % 
+Linux                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (2.32%)
-
-✍️ 334 lines written by AI, 766 lines written by hand (30.36% AI-written)
-
-🔤 139,990 Input Tokens, 19,935 Output Tokens
-
-💵 $0.68 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-GPT                      334 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 30.36% of written lines came from AI
-📝 Concise Prompter — average 470 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 81.62% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 23/08/2026 00:31:55 UTC
+ Last Updated on 24/08/2026 00:30:58 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
