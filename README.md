@@ -153,18 +153,15 @@ Sunday                   5 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      6 hrs 51 mins       ██████████████████████░░░   88.09 % 
-Bash                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-BibTeX                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+TeX                      6 hrs 51 mins       ████████████████████████░   97.88 % 
+BibTeX                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 59 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 59 mins       ██████████████████████░░░   90.00 % 
-Linux                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Windows                  6 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -174,7 +171,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 24/08/2026 00:30:58 UTC
+ Last Updated on 26/08/2026 00:31:16 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
