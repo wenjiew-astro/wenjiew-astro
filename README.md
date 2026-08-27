@@ -153,15 +153,15 @@ Sunday                   5 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      6 hrs 51 mins       ████████████████████████░   97.88 % 
-BibTeX                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+TeX                      4 hrs 37 mins       ████████████████████████░   97.17 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+BibTeX                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -171,7 +171,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 26/08/2026 00:31:16 UTC
+ Last Updated on 27/08/2026 05:21:12 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
